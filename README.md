@@ -11,5 +11,7 @@
     Guide(GUI Editor Matlab)
     Image Processing toolbox MATLAB
     ImageRegionAnalyzer(MATLAB APP)
+5. the presentation can be found here :
+    . https://www.slideshare.net/AshutoshKumar443/red-blood-cell-extraction-and-counting
     
     
